@@ -1,0 +1,13 @@
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/obj/Debug/netcoreapp3.1/csharp.csprojAssemblyReference.cache
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/obj/Debug/netcoreapp3.1/csharp.csproj.CoreCompileInputs.cache
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/obj/Debug/netcoreapp3.1/csharp.AssemblyInfoInputs.cache
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/obj/Debug/netcoreapp3.1/csharp.AssemblyInfo.cs
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/bin/Debug/netcoreapp3.1/csharp
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/bin/Debug/netcoreapp3.1/csharp.deps.json
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/bin/Debug/netcoreapp3.1/csharp.runtimeconfig.json
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/bin/Debug/netcoreapp3.1/csharp.runtimeconfig.dev.json
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/bin/Debug/netcoreapp3.1/csharp.dll
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/bin/Debug/netcoreapp3.1/csharp.pdb
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/obj/Debug/netcoreapp3.1/csharp.dll
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/obj/Debug/netcoreapp3.1/csharp.pdb
+/home/crstnsz/src/algoritmos/mdc_euclides/csharp/obj/Debug/netcoreapp3.1/csharp.genruntimeconfig.cache

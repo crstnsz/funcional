@@ -1,0 +1,13 @@
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/bin/Debug/netcoreapp3.1/tamanho_funcional_csharp
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/bin/Debug/netcoreapp3.1/tamanho_funcional_csharp.deps.json
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/bin/Debug/netcoreapp3.1/tamanho_funcional_csharp.runtimeconfig.json
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/bin/Debug/netcoreapp3.1/tamanho_funcional_csharp.runtimeconfig.dev.json
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/bin/Debug/netcoreapp3.1/tamanho_funcional_csharp.dll
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/bin/Debug/netcoreapp3.1/tamanho_funcional_csharp.pdb
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/obj/Debug/netcoreapp3.1/tamanho_funcional_csharp.csprojAssemblyReference.cache
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/obj/Debug/netcoreapp3.1/tamanho_funcional_csharp.csproj.CoreCompileInputs.cache
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/obj/Debug/netcoreapp3.1/tamanho_funcional_csharp.AssemblyInfoInputs.cache
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/obj/Debug/netcoreapp3.1/tamanho_funcional_csharp.AssemblyInfo.cs
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/obj/Debug/netcoreapp3.1/tamanho_funcional_csharp.dll
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/obj/Debug/netcoreapp3.1/tamanho_funcional_csharp.pdb
+/home/crstnsz/src/algoritmos/tamanho_funcional_csharp/obj/Debug/netcoreapp3.1/tamanho_funcional_csharp.genruntimeconfig.cache
